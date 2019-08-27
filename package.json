@@ -1,5 +1,5 @@
 {
-  "name": "music-master",
+  "name": "even-or-odds",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,6 +19,8 @@
     "parcel-bundler": "^1.10.3",
     "react": "^16.9.0",
     "react-dom": "^16.6.3",
-    "react-router-dom": "^5.0.1"
+    "react-redux": "^6.0.0",
+    "react-router-dom": "^5.0.1",
+    "redux": "^4.0.1"
   }
 }
